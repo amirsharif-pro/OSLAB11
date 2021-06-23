@@ -2,9 +2,11 @@
 امیرحسین شریف نژاد
 <br>
 <hr>
-1.
+1.<br>
+Question link:<br>
 https://stackoverflow.com/questions/68105211/how-to-send-a-message-to-telegram-with-ajax
 <br>
+question:<br>
 I have a form that sends a text to the Telegram robot via Ajax. But the problem is that if the text is written in several lines, when the text is sent, the text is sent in one line, The code I wrote is as follows:<br>
 
 $.ajax({
